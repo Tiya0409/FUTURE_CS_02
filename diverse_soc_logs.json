@@ -1,0 +1,15 @@
+{"timestamp": "2025-06-30T08:25:43Z", "user": "alice", "event": "brute_force_login", "ip": "192.168.1.101"}
+{"timestamp": "2025-06-30T08:26:12Z", "user": "bob", "event": "login_failed", "ip": "192.168.1.102"}
+{"timestamp": "2025-06-30T08:29:00Z", "user": "charlie", "event": "sql_injection_attempt", "ip": "203.0.113.45"}
+{"timestamp": "2025-06-30T08:30:15Z", "user": "dan", "event": "cross_site_scripting", "ip": "203.0.113.46"}
+{"timestamp": "2025-06-30T08:31:40Z", "user": "eve", "event": "malware_infection", "ip": "198.51.100.23"}
+{"timestamp": "2025-06-30T08:32:25Z", "user": "frank", "event": "login_failed", "ip": "192.168.1.103"}
+{"timestamp": "2025-06-30T08:35:10Z", "user": "frank", "event": "phishing_email_clicked", "ip": "198.51.100.24"}
+{"timestamp": "2025-06-30T08:36:05Z", "user": "grace", "event": "login_success", "ip": "10.0.0.7"}
+{"timestamp": "2025-06-30T08:40:45Z", "user": "mallory", "event": "port_scanning", "ip": "198.51.100.25"}
+{"timestamp": "2025-06-30T08:42:00Z", "user": "henry", "event": "data_exfiltration", "ip": "198.51.100.27"}
+{"timestamp": "2025-06-30T08:43:18Z", "user": "trudy", "event": "privilege_escalation", "ip": "198.51.100.26"}
+{"timestamp": "2025-06-30T08:45:50Z", "user": "ivy", "event": "unauthorized_access", "ip": "10.0.0.9"}
+{"timestamp": "2025-06-30T08:48:30Z", "user": "bob", "event": "denial_of_service", "ip": "203.0.113.50"}
+{"timestamp": "2025-06-30T08:50:55Z", "user": "judy", "event": "malware_infection", "ip": "198.51.100.28"}
+{"timestamp": "2025-06-30T08:52:30Z", "user": "admin", "event": "unauthorized_access", "ip": "10.0.0.1"}
